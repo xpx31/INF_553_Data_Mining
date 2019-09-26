@@ -1,0 +1,1 @@
+{"m1": 52.767420053482056, "m2": 4.893193244934082, "explanation": "Method 2 is faster than Method 1, since it only gets the first 5 entities verses getting the entire column in Method 1 which takes more time."}

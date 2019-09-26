@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="hw4">
+    <output-path>$PROJECT_DIR$/out/artifacts/hw4</output-path>
+    <root id="archive" name="pengxiang_xu_hw4.jar">
+      <element id="module-output" name="HW4" />
+      <element id="module-output" name="HW4-build" />
+      <element id="library" level="module" name="sbt: unmanaged-sources-and-docs" module-name="HW4" />
+    </root>
+  </artifact>
+</component>
